@@ -1,0 +1,11 @@
+authtoken: thisismyngroktoken
+tunnels:
+  MCPC:
+    addr: 25565
+    proto: tcp    
+  MCPE:
+    addr: 19132
+    proto: tcp
+  SSH:
+    addr: 22
+    proto: tcp
